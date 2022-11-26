@@ -1,9 +1,9 @@
 {
   "headerPortfolio": {
     "logo": {
-      "pathImage": "img/charmander.png",
+      "pathImage": "icons/portfolio/logo-pf.svg",
       "altImage": "portfolio",
-      "withText": true
+      "withText": false
     },
     "menuHeader": {
       "menu": {
@@ -46,23 +46,23 @@
     "left": {
       "github": {
         "show": true,
-        "url": "https://www.github.com/"
+        "url": "https://github.com/renzoqc"
       },
       "instagram": {
         "show": true,
-        "url": "https://www.instagram.com/"
+        "url": "https://www.instagram.com/razek_rs"
       },
       "twitter": {
         "show": true,
-        "url": "https://www.twitter.com/"
+        "url": "https://twitter.com/renzoqc_"
       },
       "linkedin": {
         "show": true,
-        "url": "https://www.linkedin.com/"
+        "url": "https://www.linkedin.com/in/renzo-quispe-cardenas-37a62a15a/"
       },
       "editor": {
         "show": true,
-        "url": "https://www.codepen.com/"
+        "url": "https://codepen.io/renzoqc"
       }
     },
     "right": {
@@ -73,7 +73,7 @@
     "greeting": "Hi, my name is",
     "name": "Renzo Quispe.",
     "subtitle": "I build things for the web.",
-    "content": "I'm a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I'm focused on building accessible, human-centered products at Upstatement.",
+    "content": "I\"m a Full-Stack Developer specializing in building digital experiences. I’m passionate about digital products that help people experience everyday life, not endure it.",
     "resume": {
       "text": "Download Resume"
     },
@@ -87,18 +87,18 @@
       "numberOrder": "01",
       "text": "About Me"
     },
-    "pathImage": "img/bartolito.png",
+    "pathImage": "img/photo-profile.png",
     "arrAbout": [
-      "UNO Jason Lengstorf is the VP of Developer Experience at Netlify and the host of Learn With Jason, a live-streamed video show where he pair programs to learn something new in 90 minutes. As a keynote speaker and author, Jason focuses on building healthier teams through trust, curiosity, and play. He's trying his very best to follow his own advice. He lives in Portland, Oregon.\n",
-      "DOS Jason Lengstorf is the VP of Developer Experience at Netlify and the host of Learn With Jason, a live-streamed video show where he pair programs to learn something new in 90 minutes. As a keynote speaker and author, Jason focuses on building healthier teams through trust, curiosity, and play. He's trying his very best to follow his own advice. He lives in Portland, Oregon.\n",
-      "TRES Jason Lengstorf is the VP of Developer Experience at Netlify and the host of Learn With Jason, a live-streamed video show where he pair programs to learn something new in 90 minutes. As a keynote speaker and author, Jason focuses on building healthier teams through trust, curiosity, and play. He's trying his very best to follow his own advice. He lives in Portland, Oregon.\n",
-      "CUATRO Jason Lengstorf is the VP of Developer Experience at Netlify and the host of Learn With Jason, a live-streamed video show where he pair programs to learn something new in 90 minutes. As a keynote speaker and author, Jason focuses on building healthier teams through trust, curiosity, and play. He's trying his very best to follow his own advice. He lives in Portland, Oregon.\n",
-      "CINCO Jason Lengstorf is the VP of Developer Experience at Netlify and the host of Learn With Jason, a live-streamed video show where he pair programs to learn something new in 90 minutes. As a keynote speaker and author, Jason focuses on building healthier teams through trust, curiosity, and play. He's trying his very best to follow his own advice. He lives in Portland, Oregon.\n"
+      "Renzo Quispe is trying his very best.\n",
+      "Renzo Quispe works at <strong>Apply Digital</strong> and he’s looking for working groups to carry out projects.. He’s trying his very best..\n",
+      "Renzo Quispe works at <strong>Apply Digital</strong> as a BackEnd developer and he’s looking for working groups to carry out projects. He’s passionate about technology, so he’s always learning new tools. He’s trying his very best to follow his own advice. He lives in Lima, Perú.\n",
+      "Renzo Quispe works at <strong>Apply Digital</strong> as a Backend developer and he’s responsible for the payment process of an online store. He’s passionate about technology, so he’s always looking for new ideas for socially beneficial projects. He’s trying his very best to follow his own advice. He lives in Lima, Perú.\n",
+      "Renzo Quispe works at <strong>Apply Digital</strong> as a Backend developer and he’s responsible for the payment process of an online store, where he’s helping build the workflow for the modern web. He’s passionate about web development with best practices, clean code and unit testing, so he’s always looking for new project ideas that impact society. Outside of work, he likes to travel to enjoy nature and try new dishes. When this whole Internet thing wears off, he’ll probably open a food truck in his hometown of Lima, Perú.\n"
     ],
     "arrThoughts": [
-      "Simplicity is the baddest choice to be the best.",
-      "I know I’m not successful enough, but I’m passionate enough not to worry about success.",
-      "Creativity is the driver of an unstoppable train called Passion."
+      "When you have a dream, you’ve got to grab it and never let go",
+      "Nothing is impossible. The word itself says I’m possible!",
+      "Creativity is the driver of an unstoppable train called Passion"
     ]
   },
   "skillsPortfolio": {
@@ -107,134 +107,120 @@
       "text": "Skillsets"
     },
     "arrTech": [
-      {
-        "name": "CSS3",
-        "position": {
-          "top": "10%",
-          "left": "15%"
-        }
-      },
-      {
-        "name": "PostgreSQL",
-        "position": {
-          "top": "4%",
-          "left": "26%"
-        }
-      },
-      {
-        "name": "Docker",
-        "position": {
-          "top": "30%",
-          "left": "22%"
-        }
-      },
-      {
-        "name": "NestJS",
-        "position": {
-          "top": "25%",
-          "left": "46%"
-        }
-      },
-      {
-        "name": "Sass",
-        "position": {
-          "top": "10%",
-          "left": "56%"
-        }
-      },
-      {
-        "name": "ES6",
-        "position": {
-          "top": "38%",
-          "left": "66%"
-        }
-      },
-      {
-        "name": "Javascript",
-        "position": {
-          "top": "12%",
-          "left": "71%"
-        }
-      },
-      {
-        "name": "Python",
-        "position": {
-          "top": "28%",
-          "left": "85%"
-        }
-      },
-      {
-        "name": "Git",
-        "position": {
-          "top": "90%",
-          "left": "11%"
-        }
-      },
-      {
-        "name": "MongoDB",
-        "position": {
-          "top": "95%",
-          "left": "30%"
-        }
-      },
-      {
-        "name": "EspressJS",
-        "position": {
-          "top": "85%",
-          "left": "55%"
-        }
-      },
-      {
-        "name": "Typescript",
-        "position": {
-          "top": "94%",
-          "left": "73%"
-        }
-      },
-      {
-        "name": "RestFULL",
-        "position": {
-          "top": "82%",
-          "left": "84%"
-        }
-      }
+      { "name": "CSS3", "position": { "top": "10%", "left": "15%" } },
+      { "name": "PostgreSQL", "position": { "top": "4%", "left": "26%" } },
+      { "name": "Docker", "position": { "top": "30%", "left": "22%" } },
+      { "name": "NestJS", "position": { "top": "25%", "left": "46%" } },
+      { "name": "Sass", "position": { "top": "10%", "left": "56%" } },
+      { "name": "ES6", "position": { "top": "38%", "left": "66%" } },
+      { "name": "Javascript", "position": { "top": "12%", "left": "71%" } },
+      { "name": "Python", "position": { "top": "28%", "left": "85%" } },
+      { "name": "Git", "position": { "top": "90%", "left": "11%" } },
+      { "name": "MongoDB", "position": { "top": "95%", "left": "30%" } },
+      { "name": "EspressJS", "position": { "top": "85%", "left": "55%" } },
+      { "name": "Typescript", "position": { "top": "94%", "left": "73%" } },
+      { "name": "RestFULL", "position": { "top": "82%", "left": "84%" } }
     ]
   },
   "experiencePortfolio": {
     "header": {
       "numberOrder": "03",
-      "text": "Where I've worked"
+      "text": "Where I’ve worked"
     },
     "arrExp": [
       {
-        "company": "Indra",
-        "title": "Software Developer ",
-        "date": "November 2020 - October 2021",
+        "company": "Apply Digital",
+        "title": "Back-end Developer",
+        "country": "🇨🇱",
+        "date": "September 2022 - Current",
+        "goTo": "https://www.applydigital.com/",
         "tasks": [
           {
-            "content": "Write modern, performant, maintainable code for a diverse array of client and internal projects"
+            "content": "Backend software development through API for an e-commerce service primarily using Django, Jest, TypeScript, Redis, NestJS, ExpressJs, NodeJs, Docker."
           },
           {
-            "content": "Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify"
+            "content": "Development of unit tests and clean code."
           },
           {
-            "content": " Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis"
+            "content": "Development of backend solutions for frontend services availability."
+          },
+          {
+            "content": "Integrations with payment gateway services."
+          }
+        ]
+      },
+      {
+        "company": "Autofact",
+        "title": "Full Stack Developer",
+        "country": "🇨🇱",
+        "date": "February 2022 - October 2022",
+        "goTo": "https://www.autofact.cl/",
+        "tasks": [
+          {
+            "content": "Development of Full Stack web applications for the promotion of new services primarily using Sass, Jest, NextJs, ExpressJs, ReactJs, NodeJs, Docker, AWS Lambda, Laravel."
+          },
+          {
+            "content": "Development and maintenance of content management applications in the Retail service."
+          },
+          {
+            "content": "Integrations with traffic management systems such as Google Tag Manager, Google Analytics."
+          }
+        ]
+      },
+      {
+        "company": "Reign",
+        "title": "Back-end Developer",
+        "country": "🇨🇱",
+        "date": "February 2022 - September 2022",
+        "goTo": "https://www.linkedin.com/company/reigncl/",
+        "tasks": [
+          {
+            "content": "Backend software development through API for an e-commerce service primarily using Django, Jest, TypeScript, Redis, NestJS, ExpressJs, NodeJs, Docker."
+          },
+          {
+            "content": "Development of unit tests and clean code."
+          },
+          {
+            "content": "Development of backend solutions for frontend services availability."
+          },
+          {
+            "content": "Integrations with payment gateway services."
           }
         ]
       },
       {
         "company": "Uncodeit",
-        "title": "Software Developer",
-        "date": "Augoust 2020 - October 2021",
+        "title": "Full-Stack Software Developer",
+        "country": "🇵🇪",
+        "date": "August 2021 - February 2022",
+        "goTo": "https://www.linkedin.com/company/uncodeit-consulting/",
         "tasks": [
           {
-            "content": "Write modern, performant, maintainable code for a diverse array of client and internal projects"
+            "content": "Group information of the status of the telecommunications network, associating the necessary parameters of each equipment in MongoDB documents."
           },
           {
-            "content": "Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify"
+            "content": "Generate reports of the current status of the network through remote connections to equipment such as routers, switches, network managers."
           },
           {
-            "content": " Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis"
+            "content": "Creation of a reporting platform, with statistical graphs, processes in progress and equipment failures primarily using MongoDB, GitLab, Sass, NestJs, ExpressJs, ReactJs, NodeJs, Docker."
+          }
+        ]
+      },
+      {
+        "company": "Indra",
+        "title": "Young professional",
+        "country": "🇵🇪",
+        "date": "November 2020 - October 2021",
+        "goTo": "https://www.indracompany.com/",
+        "tasks": [
+          {
+            "content": "Development of platforms for the internal control of the entry of materials to the project primarily using Bootstrap, PostgreSQL, ExpressJs, NodeJs, Python."
+          },
+          {
+            "content": "Generation of reports on current logistics and comparative tables."
+          },
+          {
+            "content": "Generation of dashboards for project service estimation."
           }
         ]
       }
@@ -248,55 +234,52 @@
     "arrProjects": [
       {
         "img": {
-          "source": "https://definicion.de/wp-content/uploads/2009/12/paisaje-1.jpg"
+          "source": "img/project-portfolio-lib.png",
+          "external": true
         },
         "description": {
           "type": "Featured Project",
-          "title": "Build a Spotify Connected App",
+          "title": "Build a Library for Portfolios",
           "info": [
             "A ",
-            "<strong>minimal</strong>",
-            ", dark blue theme for VS Code, Sublime 'text', Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, ",
-            ",<a href='#'>Atom Package Manager</a>",
-            ", and npm."
+            "<strong>Component library</strong>",
+            " to create your own portfolio without the need to be an expert, with customized information and design, ready to use and deploy."
           ],
-          "stack": "React Styled Components, Express, Spotify API, Heroku",
-          "github": "https://github.com/bchiang7/halcyon-site",
-          "url": "https://halcyon-theme.netlify.com/"
+          "stack": "ReactJs, Storybook, TypeScript, Sass, Jest",
+          "github": "https://github.com/renzoqc/rqc-lib-react-portfolio",
+          "url": "google.com"
         }
       },
       {
         "img": {
-          "source": "https://definicion.de/wp-content/uploads/2009/12/paisaje-1.jpg"
+          "source": "img/project-portfolio-lib.png"
         },
         "description": {
           "type": "Featured Project",
-          "title": "Build a Youtube Connected App",
+          "title": "Technical Inspection Plants Search Engine",
           "info": [
             "A ",
-            "<strong>minimal</strong>",
-            ", dark blue theme for VS Code, Sublime 'text', Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, ",
-            ",<a href='#'>Atom Package Manager</a>",
-            ", and npm."
+            "<strong>Frontend and Backend app</strong>",
+            " with a database, to search information about Technical Inspection Plants in Chile, filtered by communes, of great social use."
           ],
-          "stack": "React Styled Components, Express, Spotify API, Heroku",
-          "github": "https://github.com/bchiang7/halcyon-site",
-          "url": "https://halcyon-theme.netlify.com/"
+          "stack": "NodeJs, ReactJs, Express, MySql, Sass, Jest",
+          "github": "https://bitbucket.org/autofact/retail-webapp-technical-inspection/src/master/",
+          "url": "https://www.autofact.cl/planta-revision-tecnica"
         }
       },
       {
         "img": {
-          "source": "https://definicion.de/wp-content/uploads/2009/12/paisaje-1.jpg"
+          "source": "img/project-portfolio-lib.png"
         },
         "description": {
-          "type": "Featured Project",
+          "type": "Project In Progress",
           "title": "Build a Insta Connected App",
           "info": [
             "A ",
-            "<strong>minimal</strong>,",
-            ", dark blue theme for VS Code, Sublime 'text', Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, ",
-            "<a href='#'>Atom Package Manager</a>,",
-            "and npm."
+            "<strong>minimal</strong>",
+            ", dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, ",
+            "<a href=\"#\">Atom Package Manager</a>",
+            ", and npm."
           ],
           "stack": "React Styled Components, Express, Spotify API, Heroku",
           "github": "https://github.com/bchiang7/halcyon-site",
@@ -308,10 +291,12 @@
   "contactPortfolio": {
     "header": {
       "numberOrder": "05",
-      "text": "What's Next?"
+      "text": "What’s Next?"
     },
     "phrase": "Get In Touch",
-    "content": "Thanks for stopping by, I’m currently looking to join a new team of creative developers. If you think we might be a good fit for one another, give me a call 🇵🇪 send me an email",
+    "content1": "Thanks for stopping by, I’m currently looking to join a new team of creative developers. Ask for my resume or see if we can build something amazing together?",
+    "content2": "I’d love to hear from you!",
+    "buttonGoTo": "renzo.quispe.c@uni.pe",
     "buttonText": "Say Hello",
     "signature": "Designed & Built by Renzo Quispe"
   }
