@@ -73,7 +73,7 @@
     "greeting": "Hi, my name is",
     "name": "Renzo Quispe.",
     "subtitle": "I build things for the web.",
-    "content": "I\"m a Full-Stack Developer specializing in building digital experiences. I’m passionate about digital products that help people experience everyday life, not endure it.",
+    "content": "I’m a Full-Stack Developer specializing in building digital experiences. I’m passionate about digital products that help people experience everyday life, not endure it.",
     "resume": {
       "text": "Download Resume"
     },
@@ -240,11 +240,7 @@
         "description": {
           "type": "Featured Project",
           "title": "Build a Library for Portfolios",
-          "info": [
-            "A ",
-            "<strong>Component library</strong>",
-            " to create your own portfolio without the need to be an expert, with customized information and design, ready to use and deploy."
-          ],
+          "info": "A <strong>Component library</strong> to create your own portfolio without the need to be an expert, with customized information and design, ready to use and deploy.",
           "stack": "ReactJs, Storybook, TypeScript, Sass, Jest",
           "github": "https://github.com/renzoqc/rqc-lib-react-portfolio",
           "url": "google.com"
@@ -252,38 +248,15 @@
       },
       {
         "img": {
-          "source": "img/project-portfolio-lib.png"
+          "source": "img/project-prt-af.png"
         },
         "description": {
           "type": "Featured Project",
           "title": "Technical Inspection Plants Search Engine",
-          "info": [
-            "A ",
-            "<strong>Frontend and Backend app</strong>",
-            " with a database, to search information about Technical Inspection Plants in Chile, filtered by communes, of great social use."
-          ],
+          "info": "A <strong>Frontend and Backend app</strong> with a database, to search information about Technical Inspection Plants in Chile, filtered by communes, of great social use.",
           "stack": "NodeJs, ReactJs, Express, MySql, Sass, Jest",
           "github": "https://bitbucket.org/autofact/retail-webapp-technical-inspection/src/master/",
           "url": "https://www.autofact.cl/planta-revision-tecnica"
-        }
-      },
-      {
-        "img": {
-          "source": "img/project-portfolio-lib.png"
-        },
-        "description": {
-          "type": "Project In Progress",
-          "title": "Build a Insta Connected App",
-          "info": [
-            "A ",
-            "<strong>minimal</strong>",
-            ", dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, ",
-            "<a href=\"#\">Atom Package Manager</a>",
-            ", and npm."
-          ],
-          "stack": "React Styled Components, Express, Spotify API, Heroku",
-          "github": "https://github.com/bchiang7/halcyon-site",
-          "url": "https://halcyon-theme.netlify.com/"
         }
       }
     ]

@@ -50,9 +50,11 @@ const PortfolioComponent = () => {
                 <ContactPortfolio
                     header={data.contactPortfolio.header}
                     phrase={data.contactPortfolio.phrase}
-                    content={data.contactPortfolio.content}
+                    content1={data.contactPortfolio.content1}
+                    content2={data.contactPortfolio.content2}
                     buttonText={data.contactPortfolio.buttonText}
                     signature={data.contactPortfolio.signature}
+                    buttonGoTo={data.contactPortfolio.buttonGoTo}
                 />
             </div>
         </div>

@@ -1,8 +1,12 @@
 @import '../../node_modules/rqc-lib-react-portfolio/build/index.css';
 
+html {
+  scroll-behavior: smooth;
+}
+
 .app-portfolio-root {
   background-color: #0B192E;
-  padding-top: 2rem;
+  padding-top: 0.8rem;
   .content-center-sides {
     overflow-x: hidden;
     padding: 0 150px;
