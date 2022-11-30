@@ -37,7 +37,7 @@
       },
       "resume": {
         "name": "Resume",
-        "goTo": "/",
+        "goTo": "https://renzoqc.dev/files/resume.pdf",
         "color": "cyan-pf"
       }
     }
@@ -75,7 +75,8 @@
     "subtitle": "I build things for the web.",
     "content": "I’m a Full-Stack Developer specializing in building digital experiences. I’m passionate about digital products that help people experience everyday life, not endure it.",
     "resume": {
-      "text": "Download Resume"
+      "text": "Download Resume",
+      "goTo": "https://renzoqc.dev/files/resume.pdf"
     },
     "img": {
       "path": "img/memoji-mac.png",
