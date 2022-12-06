@@ -6,7 +6,9 @@ import './styles/main.scss'
 function App() {
   return (
     <div className="app-portfolio-root">
-      <PortfolioComponent/>
+        <React.Suspense fallback="Loading...">
+            <PortfolioComponent/>
+        </React.Suspense>
     </div>
   );
 }
