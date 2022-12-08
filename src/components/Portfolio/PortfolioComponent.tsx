@@ -1,16 +1,16 @@
-// import Logo from '../../../../rqc-lib-react-portfolio/src/Logo/Logo'
-// import Logo from 'rqc-lib-react-portfolio/build/Logo'
 import * as React from "react";
-import HeaderPortfolio from "rqc-lib-react-portfolio/build/HeaderPortfolio";
-import SidesPortfolio from "rqc-lib-react-portfolio/build/SidesPortfolio";
-import HomePortfolio from "rqc-lib-react-portfolio/build/HomePortfolio";
-import AboutPortfolio from "rqc-lib-react-portfolio/build/AboutPortfolio";
-import SkillsPortfolio from "rqc-lib-react-portfolio/build/SkillsPortfolio";
-import ExperiencePortfolio from "rqc-lib-react-portfolio/build/ExperiencePortfolio";
-import ProjectsPortfolio from "rqc-lib-react-portfolio/build/ProjectsPortfolio";
-import ContactPortfolio from "rqc-lib-react-portfolio/build/ContactPortfolio";
-
 import data from '../../public/data.json'
+import { lazy } from "react";
+
+const HeaderPortfolio = lazy(() => import('rqc-lib-react-portfolio/build/HeaderPortfolio'));
+const SidesPortfolio = lazy(() => import('rqc-lib-react-portfolio/build/SidesPortfolio'));
+const HomePortfolio = lazy(() => import('rqc-lib-react-portfolio/build/HomePortfolio'));
+const AboutPortfolio = lazy(() => import('rqc-lib-react-portfolio/build/AboutPortfolio'));
+const SkillsPortfolio = lazy(() => import('rqc-lib-react-portfolio/build/SkillsPortfolio'));
+const ExperiencePortfolio = lazy(() => import('rqc-lib-react-portfolio/build/ExperiencePortfolio'));
+const ProjectsPortfolio = lazy(() => import('rqc-lib-react-portfolio/build/ProjectsPortfolio'));
+const ContactPortfolio = lazy(() => import('rqc-lib-react-portfolio/build/ContactPortfolio'));
+
 
 const PortfolioComponent = () => {
     return (
