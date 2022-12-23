@@ -1,7 +1,7 @@
 {
   "headerPortfolio": {
     "logo": {
-      "pathImage": "icons/portfolio/logo-pf.svg",
+      "pathImage": "https://renzoqc.dev/files/logo-pf.svg",
       "altImage": "portfolio",
       "withText": false
     },
@@ -79,7 +79,7 @@
       "goTo": "https://renzoqc.dev/files/resume.pdf"
     },
     "img": {
-      "path": "img/memoji-mac.png",
+      "path": "https://renzoqc.dev/files/memoji-mac.png",
       "alt": "photo"
     }
   },
