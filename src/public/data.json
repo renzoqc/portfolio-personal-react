@@ -88,10 +88,15 @@
       "numberOrder": "01",
       "text": "About Me"
     },
-    "pathImage": "https://renzoqc.dev/files/photo-profile.png",
+    "image": {
+      "path": "https://renzoqc.dev/files/photo-profile.png",
+      "width": 258,
+      "height": 325,
+      "desktopMultiplier": 1.2
+    },
     "arrAbout": [
       "Renzo Quispe is trying his very best.\n",
-      "Renzo Quispe works at <strong>Apply Digital</strong> and he’s looking for working groups to carry out projects.. He’s trying his very best..\n",
+      "Renzo Quispe works at <strong>Apply Digital</strong> and he’s looking for working groups to carry out projects. He’s trying his very best.\n",
       "Renzo Quispe works at <strong>Apply Digital</strong> as a BackEnd developer and he’s looking for working groups to carry out projects. He’s passionate about technology, so he’s always learning new tools. He’s trying his very best to follow his own advice. He lives in Lima, Perú.\n",
       "Renzo Quispe works at <strong>Apply Digital</strong> as a Backend developer and he’s responsible for the payment process of an online store. He’s passionate about technology, so he’s always looking for new ideas for socially beneficial projects. He’s trying his very best to follow his own advice. He lives in Lima, Perú.\n",
       "Renzo Quispe works at <strong>Apply Digital</strong> as a Backend developer and he’s responsible for the payment process of an online store, where he’s helping build the workflow for the modern web. He’s passionate about web development with best practices, clean code and unit testing, so he’s always looking for new project ideas that impact society. Outside of work, he likes to travel to enjoy nature and try new dishes. When this whole Internet thing wears off, he’ll probably open a food truck in his hometown of Lima, Perú.\n"
@@ -108,19 +113,97 @@
       "text": "Skillsets"
     },
     "arrTech": [
-      { "name": "CSS3", "position": { "top": "10%", "left": "15%" } },
-      { "name": "PostgreSQL", "position": { "top": "4%", "left": "26%" } },
-      { "name": "Docker", "position": { "top": "30%", "left": "22%" } },
-      { "name": "NestJS", "position": { "top": "25%", "left": "46%" } },
-      { "name": "Sass", "position": { "top": "10%", "left": "56%" } },
-      { "name": "ES6", "position": { "top": "38%", "left": "66%" } },
-      { "name": "Javascript", "position": { "top": "12%", "left": "71%" } },
-      { "name": "Python", "position": { "top": "28%", "left": "85%" } },
-      { "name": "Git", "position": { "top": "90%", "left": "11%" } },
-      { "name": "MongoDB", "position": { "top": "95%", "left": "30%" } },
-      { "name": "EspressJS", "position": { "top": "85%", "left": "55%" } },
-      { "name": "Typescript", "position": { "top": "94%", "left": "73%" } },
-      { "name": "RestFULL", "position": { "top": "82%", "left": "84%" } }
+      {
+        "name": "CSS3",
+        "position": {
+          "top": "10%",
+          "left": "15%"
+        }
+      },
+      {
+        "name": "PostgreSQL",
+        "position": {
+          "top": "4%",
+          "left": "26%"
+        }
+      },
+      {
+        "name": "Docker",
+        "position": {
+          "top": "30%",
+          "left": "22%"
+        }
+      },
+      {
+        "name": "NestJS",
+        "position": {
+          "top": "25%",
+          "left": "46%"
+        }
+      },
+      {
+        "name": "Sass",
+        "position": {
+          "top": "10%",
+          "left": "56%"
+        }
+      },
+      {
+        "name": "ES6",
+        "position": {
+          "top": "38%",
+          "left": "66%"
+        }
+      },
+      {
+        "name": "Javascript",
+        "position": {
+          "top": "12%",
+          "left": "71%"
+        }
+      },
+      {
+        "name": "Python",
+        "position": {
+          "top": "28%",
+          "left": "85%"
+        }
+      },
+      {
+        "name": "Git",
+        "position": {
+          "top": "90%",
+          "left": "11%"
+        }
+      },
+      {
+        "name": "MongoDB",
+        "position": {
+          "top": "95%",
+          "left": "30%"
+        }
+      },
+      {
+        "name": "EspressJS",
+        "position": {
+          "top": "85%",
+          "left": "55%"
+        }
+      },
+      {
+        "name": "Typescript",
+        "position": {
+          "top": "94%",
+          "left": "73%"
+        }
+      },
+      {
+        "name": "RestFULL",
+        "position": {
+          "top": "82%",
+          "left": "84%"
+        }
+      }
     ]
   },
   "experiencePortfolio": {
@@ -133,7 +216,7 @@
         "company": "Apply Digital",
         "title": "Back-end Developer",
         "country": "🇨🇱",
-        "date": "September 2022 - Current",
+        "date": "January 2022 - Current",
         "goTo": "https://www.applydigital.com/",
         "tasks": [
           {
@@ -154,7 +237,7 @@
         "company": "Autofact",
         "title": "Full Stack Developer",
         "country": "🇨🇱",
-        "date": "February 2022 - October 2022",
+        "date": "December 2020 - December 2021",
         "goTo": "https://www.autofact.cl/",
         "tasks": [
           {
@@ -172,7 +255,7 @@
         "company": "Reign",
         "title": "Back-end Developer",
         "country": "🇨🇱",
-        "date": "February 2022 - September 2022",
+        "date": "April 2020 - November 2020",
         "goTo": "https://www.linkedin.com/company/reigncl/",
         "tasks": [
           {
@@ -193,7 +276,7 @@
         "company": "Uncodeit",
         "title": "Full-Stack Software Developer",
         "country": "🇵🇪",
-        "date": "August 2021 - February 2022",
+        "date": "August 2019 - March 2020",
         "goTo": "https://www.linkedin.com/company/uncodeit-consulting/",
         "tasks": [
           {
@@ -211,7 +294,7 @@
         "company": "Indra",
         "title": "Young professional",
         "country": "🇵🇪",
-        "date": "January 2020 - October 2021",
+        "date": "February 2019 - August 2019",
         "goTo": "https://www.indracompany.com/",
         "tasks": [
           {
@@ -233,6 +316,20 @@
       "text": "Yeah, I work hard"
     },
     "arrProjects": [
+      {
+        "img": {
+          "source": "https://renzoqc.dev/files/project-pacuando.png",
+          "external": true
+        },
+        "description": {
+          "type": "Featured Project",
+          "title": "Pacuando Landing Page",
+          "info": "A <strong>Landing</strong> that offers the possibility of scheduling personalized meetings for businesses with their clients.",
+          "stack": "AstroJs, Svelte, Tailwind",
+          "github": "https://github.com/renzoqc/pacuando-front",
+          "url": "https://pacuando.renzoqc.dev"
+        }
+      },
       {
         "img": {
           "source": "https://renzoqc.dev/files/project-portfolio-lib.png",

@@ -1,6 +1,6 @@
 import * as React from "react";
+import {lazy} from "react";
 import data from '../../public/data.json'
-import { lazy } from "react";
 
 const HeaderPortfolio = lazy(() => import('rqc-lib-react-portfolio/build/HeaderPortfolio'));
 const SidesPortfolio = lazy(() => import('rqc-lib-react-portfolio/build/SidesPortfolio'));
@@ -22,7 +22,7 @@ const PortfolioComponent = () => {
                 />
             </React.Suspense>
             <React.Suspense fallback="Loading...">
-                <SidesPortfolio left={data.sidesPortfolio.left} right={data.sidesPortfolio.right} />
+                <SidesPortfolio left={data.sidesPortfolio.left} right={data.sidesPortfolio.right}/>
             </React.Suspense>
             <React.Suspense fallback="Loading...">
                 <div className="content-center-sides">
@@ -39,7 +39,7 @@ const PortfolioComponent = () => {
                     <React.Suspense fallback="Loading...">
                         <AboutPortfolio
                             header={data.aboutPortfolio.header}
-                            pathImage={data.aboutPortfolio.pathImage}
+                            image={data.aboutPortfolio.image}
                             arrAbout={data.aboutPortfolio.arrAbout}
                             arrThoughts={data.aboutPortfolio.arrThoughts}
                         />
