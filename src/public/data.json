@@ -66,7 +66,7 @@
       }
     },
     "right": {
-      "email": "renzo.quispe.c@uni.pe"
+      "email": "renzoqc.p@gmail.com"
     }
   },
   "homePortfolio": {
@@ -214,7 +214,7 @@
     "arrExp": [
       {
         "company": "Apply Digital",
-        "title": "Back-end Developer",
+        "title": "Software Engineer",
         "country": "🇨🇱",
         "date": "January 2022 - Current",
         "goTo": "https://www.applydigital.com/",
@@ -318,6 +318,20 @@
     "arrProjects": [
       {
         "img": {
+          "source": "https://renzoqc.dev/files/project-datavision.png",
+          "external": true
+        },
+        "description": {
+          "type": "Featured Project",
+          "title": "Datavision Landing Page",
+          "info": "A <strong>Landing</strong> that offers data collection services to e-commerce businesses, also connected to Google Analytics and Google Tag Manager.",
+          "stack": "Typescript, NextJs, Tailwind, Zustand, Supabase",
+          "github": "https://github.com/renzoqc/datavision-frontend",
+          "url": "https://www.datavision-analytics.pe"
+        }
+      },
+      {
+        "img": {
           "source": "https://renzoqc.dev/files/project-pacuando.png",
           "external": true
         },
@@ -339,7 +353,7 @@
           "type": "Featured Project",
           "title": "Build a Library for Portfolios",
           "info": "A <strong>Component library</strong> to create your own portfolio without the need to be an expert, with customized information and design, ready to use and deploy.",
-          "stack": "ReactJs, Storybook, TypeScript, Sass, Jest",
+          "stack": "Typescript, ReactJs, Storybook, TypeScript, Sass, Jest",
           "github": "https://github.com/renzoqc/rqc-lib-react-portfolio",
           "url": "https://lib-pf.renzoqc.dev"
         }
@@ -352,7 +366,7 @@
           "type": "Featured Project",
           "title": "Technical Inspection Plants Search Engine",
           "info": "A <strong>Frontend and Backend app</strong> with a database, to search information about Technical Inspection Plants in Chile, filtered by communes, of great social use.",
-          "stack": "NodeJs, ReactJs, Express, MySql, Sass, Jest",
+          "stack": "Typescript, NodeJs, ReactJs, Express, MySql, Sass, Jest",
           "github": "https://bitbucket.org/autofact/retail-webapp-technical-inspection/src/master/",
           "url": "https://www.autofact.cl/planta-revision-tecnica"
         }
@@ -367,7 +381,7 @@
     "phrase": "Get In Touch",
     "content1": "Thanks for stopping by, I’m currently looking to join a new team of creative developers. Ask for my resume or see if we can build something amazing together?",
     "content2": "I’d love to hear from you!",
-    "buttonGoTo": "renzo.quispe.c@uni.pe",
+    "buttonGoTo": "renzoqc.p@gmail.com",
     "buttonText": "Say Hello",
     "signature": "Designed & Built by Renzo Quispe"
   }
