@@ -43,28 +43,32 @@
     }
   },
   "sidesPortfolio": {
-    "left": {
-      "github": {
-        "show": true,
-        "url": "https://github.com/renzoqc"
-      },
-      "instagram": {
-        "show": true,
-        "url": "https://www.instagram.com/razek_rs"
-      },
-      "twitter": {
-        "show": true,
-        "url": "https://twitter.com/renzoqc_"
-      },
-      "linkedin": {
-        "show": true,
+    "left": [
+      {
+        "name": "linkedin",
         "url": "https://www.linkedin.com/in/renzo-quispe-cardenas-37a62a15a/"
       },
-      "editor": {
-        "show": true,
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/@RenzoDev"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/renzoqc"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/razek_rs"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/renzoqc_"
+      },
+      {
+        "name": "editor",
         "url": "https://codepen.io/renzoqc"
       }
-    },
+    ],
     "right": {
       "email": "renzoqc.p@gmail.com"
     }
@@ -97,9 +101,9 @@
     "arrAbout": [
       "Renzo Quispe is trying his very best.\n",
       "Renzo Quispe works at <strong>Apply Digital</strong> and he’s looking for working groups to carry out projects. He’s trying his very best.\n",
-      "Renzo Quispe works at <strong>Apply Digital</strong> as a BackEnd developer and he’s looking for working groups to carry out projects. He’s passionate about technology, so he’s always learning new tools. He’s trying his very best to follow his own advice. He lives in Lima, Perú.\n",
-      "Renzo Quispe works at <strong>Apply Digital</strong> as a Backend developer and he’s responsible for the payment process of an online store. He’s passionate about technology, so he’s always looking for new ideas for socially beneficial projects. He’s trying his very best to follow his own advice. He lives in Lima, Perú.\n",
-      "Renzo Quispe works at <strong>Apply Digital</strong> as a Backend developer and he’s responsible for the payment process of an online store, where he’s helping build the workflow for the modern web. He’s passionate about web development with best practices, clean code and unit testing, so he’s always looking for new project ideas that impact society. Outside of work, he likes to travel to enjoy nature and try new dishes. When this whole Internet thing wears off, he’ll probably open a food truck in his hometown of Lima, Perú.\n"
+      "Renzo Quispe works at <strong>Apply Digital</strong> as a Software Engineer and he’s looking for working groups to carry out projects. He’s passionate about technology, so he’s always learning new tools. He’s trying his very best to follow his own advice. He lives in Lima, Perú.\n",
+      "Renzo Quispe works at <strong>Apply Digital</strong> as a Software Engineer and he’s responsible for the payment process of an online store. He’s passionate about technology, so he’s always looking for new ideas for socially beneficial projects. He’s trying his very best to follow his own advice. He lives in Lima, Perú.\n",
+      "Renzo Quispe works at <strong>Apply Digital</strong> as a Software Engineer and he’s responsible for the payment process of an online store, where he’s helping build the workflow for the modern web. He’s passionate about web development with best practices, clean code and unit testing, so he’s always looking for new project ideas that impact society. Outside of work, he likes to travel to enjoy nature and try new dishes. When this whole Internet thing wears off, he’ll probably open a food truck in his hometown of Lima, Perú.\n"
     ],
     "arrThoughts": [
       "When you have a dream, you’ve got to grab it and never let go",
