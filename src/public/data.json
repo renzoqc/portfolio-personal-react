@@ -1,7 +1,7 @@
 {
   "headerPortfolio": {
     "logo": {
-      "pathImage": "https://renzoqc.dev/files/logo-pf.svg",
+      "pathImage": "https://res.cloudinary.com/dcrzpovg4/image/upload/v1740622811/logo-pf_tadxd2.svg",
       "altImage": "portfolio",
       "withText": false
     },
@@ -37,7 +37,7 @@
       },
       "resume": {
         "name": "Resume",
-        "goTo": "https://renzoqc.dev/files/resume.pdf",
+        "goTo": "https://res.cloudinary.com/dcrzpovg4/image/upload/v1740622810/resume_nkmsgn.pdf",
         "color": "cyan-pf"
       }
     }
@@ -80,10 +80,10 @@
     "content": "I’m a Full-Stack Developer specializing in building digital experiences. I’m passionate about digital products that help people experience everyday life, not endure it.",
     "resume": {
       "text": "Download Resume",
-      "goTo": "https://renzoqc.dev/files/resume.pdf"
+      "goTo": "https://res.cloudinary.com/dcrzpovg4/image/upload/v1740622810/resume_nkmsgn.pdf"
     },
     "img": {
-      "path": "https://renzoqc.dev/files/memoji-mac.png",
+      "path": "https://res.cloudinary.com/dcrzpovg4/image/upload/v1740622810/memoji-mac_iagfjm.png",
       "alt": "photo"
     }
   },
@@ -93,7 +93,7 @@
       "text": "About Me"
     },
     "image": {
-      "path": "https://renzoqc.dev/files/photo-profile.png",
+      "path": "https://res.cloudinary.com/dcrzpovg4/image/upload/v1740622812/photo-profile_nozmmr.png",
       "width": 258,
       "height": 325,
       "desktopMultiplier": 1.2
@@ -322,7 +322,7 @@
     "arrProjects": [
       {
         "img": {
-          "source": "https://renzoqc.dev/files/project-datavision.png",
+          "source": "https://res.cloudinary.com/dcrzpovg4/image/upload/v1740622813/project-datavision_imz2pk.png",
           "external": true
         },
         "description": {
@@ -336,7 +336,7 @@
       },
       {
         "img": {
-          "source": "https://renzoqc.dev/files/project-pacuando.png",
+          "source": "https://res.cloudinary.com/dcrzpovg4/image/upload/v1740622811/project-pacuando_xdk0fm.png",
           "external": true
         },
         "description": {
@@ -350,7 +350,7 @@
       },
       {
         "img": {
-          "source": "https://renzoqc.dev/files/project-portfolio-lib.png",
+          "source": "https://res.cloudinary.com/dcrzpovg4/image/upload/v1740622810/project-portfolio-lib_xd1v1u.png",
           "external": true
         },
         "description": {
@@ -364,7 +364,7 @@
       },
       {
         "img": {
-          "source": "https://renzoqc.dev/files/project-prt-af.png"
+          "source": "https://res.cloudinary.com/dcrzpovg4/image/upload/v1740622809/project-prt-af_eknspa.png"
         },
         "description": {
           "type": "Featured Project",
