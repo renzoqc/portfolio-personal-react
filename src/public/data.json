@@ -331,7 +331,7 @@
           "info": "A <strong>Landing</strong> that offers data collection services to e-commerce businesses, also connected to Google Analytics and Google Tag Manager.",
           "stack": "Typescript, NextJs, Tailwind, Zustand, Supabase",
           "github": "https://github.com/renzoqc/datavision-frontend",
-          "url": "https://www.datavision-analytics.pe"
+          "url": "www.datavision-analytics.pe"
         }
       },
       {
@@ -345,7 +345,7 @@
           "info": "A <strong>Landing</strong> that offers the possibility of scheduling personalized meetings for businesses with their clients.",
           "stack": "AstroJs, Svelte, Tailwind",
           "github": "https://github.com/renzoqc/pacuando-front",
-          "url": "https://pacuando.renzoqc.dev"
+          "url": "www.pacuando.renzoqc.dev"
         }
       },
       {
@@ -359,7 +359,7 @@
           "info": "A <strong>Component library</strong> to create your own portfolio without the need to be an expert, with customized information and design, ready to use and deploy.",
           "stack": "Typescript, ReactJs, Storybook, TypeScript, Sass, Jest",
           "github": "https://github.com/renzoqc/rqc-lib-react-portfolio",
-          "url": "https://lib-pf.renzoqc.dev"
+          "url": "www.lib-pf.renzoqc.dev"
         }
       },
       {
