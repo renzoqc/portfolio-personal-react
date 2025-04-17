@@ -1,26 +1,17 @@
-# Utiliza la imagen base de Node.js
 FROM node:18.16
 
-# Establece el directorio de trabajo en /app
 WORKDIR /app
 
-# Copia los archivos del proyecto al contenedor
-COPY package.json package-lock.json /app/
-
-# Instala las dependencias
+COPY package.json package-lock.json ./
 RUN npm install
 
-# Copia el resto de los archivos al contenedor
-COPY . /app
+COPY . .
 
-# declara variables de entorno
-ENV APP_ENV value
+# Crea el .env dinámicamente con valores pasados por build args
+ARG REACT_APP_GA_ID
+RUN echo "REACT_APP_GA_ID=$REACT_APP_GA_ID" > .env
 
-# Compila el proyecto
 RUN npm run build
 
-# Expone el puerto 3000 (puedes cambiarlo si tu aplicaci�n usa otro puerto)
 EXPOSE 3000
-
-# Define el comando de inicio del contenedor
 CMD ["npm", "start"]

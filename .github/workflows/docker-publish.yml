@@ -36,3 +36,5 @@ jobs:
           context: .
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/portfolio-personal-react:latest
+          build-args: |
+            REACT_APP_GA_ID=${{ secrets.REACT_APP_GA_ID }}
