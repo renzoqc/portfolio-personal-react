@@ -7,8 +7,11 @@ RUN npm install
 
 COPY . .
 
-# Crea el .env dinámicamente con valores pasados por build args
+# Receive GA_ID as build args
 ARG REACT_APP_GA_ID
+ENV REACT_APP_GA_ID=${REACT_APP_GA_ID}
+
+# Echo env vars into .env before build
 RUN echo "REACT_APP_GA_ID=$REACT_APP_GA_ID" > .env
 
 RUN npm run build
